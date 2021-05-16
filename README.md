@@ -1,6 +1,7 @@
 <img align="center" alt="GIF" src="https://media.giphy.com/media/e3FkuJJTSSiIOJR3m7/giphy.gif" width="640" height="320" />
 
 ### Hi there 👋
+## Call me Lami
 
 - 🔭 I’m currently working on a health tech application 
 - 🌱 I’m currently learning UX design and open source
