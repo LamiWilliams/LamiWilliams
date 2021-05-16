@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" alt="GIF" src="https://drive.google.com/file/d/1HEtyBAeX70Td740OM15ikygaSAvucvtP/view?usp=sharing" width="1280" height="640" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/e3FkuJJTSSiIOJR3m7/giphy.gif" width="1280" height="640" />
 
 Here are some ideas to get you started:
 
